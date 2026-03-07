@@ -1,0 +1,15 @@
+# 必须：启用 Cayman 主题（官方推荐写法）
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# linny
+title: 聚酰胺树脂材料公司官网
+description: 专业聚酰胺树脂材料研发与生产
+baseurl: ""  # 项目页填 "/仓库名"，个人主页留空
+url: "https://你的用户名.github.io"
+
+# 可选：Cayman 主题配置
+show_downloads: false
+google_analytics:
+Set Cayman theme
